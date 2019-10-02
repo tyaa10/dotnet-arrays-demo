@@ -36,7 +36,11 @@ namespace ArraysStringsDemo
                 Console.WriteLine();
             }
 
+            int[,] tab = new int[11,11];
+            /*for (int i = 0; i < length; i++)
+            {
 
+            }*/
 
             // String s1 = new String("Hello");
         }
